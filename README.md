@@ -1,2 +1,2 @@
-# Lerning_JAVA-PBO-
-Belajar Java untuk Matakuliah Pemrograman Berorientasi Objek
+# Lerning_-Basis Data-
+Belajar postgresql di mata kuliah Sistem Basis Data
