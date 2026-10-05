@@ -1,0 +1,2 @@
+-- Tampilkanseluruhisitabellapangan
+SELECT * FROM lapangan
